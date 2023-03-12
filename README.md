@@ -1,4 +1,4 @@
-<h1 align="center">LIBRERÍA DE COMPLEJOS</h1>
+<h1 align="center">ESTADOS CUÁNTICOS</h1>
 <img src="https://universitam.com/academicos/wp-content/uploads/2016/04/crop.png" alt="" class="Complex" width=100%>
 
 `Esta librería de números complejos evidencia algunas de las operaciones fundamentales de este conjunto de números y sus notaciones.` <br>
