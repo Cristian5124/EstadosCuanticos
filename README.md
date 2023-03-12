@@ -1,5 +1,5 @@
 <h1 align="center">LIBRERÍA DE COMPLEJOS</h1>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKO_u5IerRydQSZu4WdilrqjAwnip2QaOQdgfOvDVXQTB7BgENjbcn9e4SG__pSQ0j-mKDLE4GIxlFluVEsM8bBHxyhL7bI5_VXiIpUacA2Lr-TOgen4MN12WSYV07Za1miunMWrzUFdR9QUThaGSdDiNNHULHL6w0Pjd34gpLsWnrjKr1flQPyA/s16000/Complex.png" alt="" class="Complex">
+<img src="https://universitam.com/academicos/wp-content/uploads/2016/04/crop.png" alt="" class="Complex">
 
 `Esta librería de números complejos evidencia algunas de las operaciones fundamentales de este conjunto de números y sus notaciones.` <br>
 `Algunos de los aspectos más relevantes de este trabajo son:` <br><br>
