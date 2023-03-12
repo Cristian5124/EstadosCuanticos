@@ -3,9 +3,9 @@
 
 `Esta librería contiene funciones en Python que logran simular algunos de los experimentos más conocidos en la computación cuántica.` <br>
 `Algunos de los aspectos más relevantes de este trabajo son:` <br><br>
-✔️ Órden secuencial de las operaciones (prelación de operaciones). <br>
-✔️ Utilización de tuplas modificables a cualquier caso de prueba. <br>
-✔️ Archivo de pruebas que certifica el correcto funcionamiento de la calculadora.
+✔️ Comentarios en todas las operaciones matemáticas para una lectura más sencilla. <br>
+✔️ Funciones individuales que simulan experimentos diferentes en el lenguaje de programación. <br>
+✔️ Graficación de un diagrama de barras que permite visualizar las probabilidades de un vector de estados.
 <hr>
 
 <h2 align="left">Código Fuente</h2>
