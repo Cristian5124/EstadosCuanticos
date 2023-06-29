@@ -1,11 +1,11 @@
 <h1 align="center">ESTADOS CUÁNTICOS</h1>
 <img src="https://universitam.com/academicos/wp-content/uploads/2016/04/crop.png" alt="" class="Complex" width=100%>
 
-`Esta librería contiene funciones en Python que logran simular algunos de los experimentos más conocidos en la computación cuántica.` <br>
-`Algunos de los aspectos más relevantes de este trabajo son:` <br><br>
+`Esta librería contiene funciones en Python que logran simular algunos de los experimentos más conocidos en la computación cuántica.` <br><br>
+Algunos de los aspectos más relevantes de este trabajo son: <br><br>
 ✔️ Comentarios en todas las operaciones matemáticas para una lectura más sencilla. <br>
 ✔️ Funciones individuales que simulan experimentos diferentes en el lenguaje de programación. <br>
-✔️ Graficación de un diagrama de barras que permite visualizar las probabilidades de un vector de estados.
+✔️ Esquema de diagrama de barras que permite visualizar las probabilidades de un vector de estados.
 <hr>
 
 <h2 align="left">Código Fuente</h2>
